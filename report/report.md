@@ -141,12 +141,23 @@ The GC content is **36.49%** (from Galaxy).
 **Question for nuclear data:** Which genes control bract color in Bougainvillea?
 
 ## References
-- NCBI RefSeq record: [NC_049005.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_049005.1)
-- NCBI GenBank record: [MT407463.1](https://www.ncbi.nlm.nih.gov/nuccore/MT407463.1)
-- Galaxy: [usegalaxy.org](https://usegalaxy.org), Fasta Statistics tool.
-- Karp et al., Cell and Molecular Biology, 7th ed.
-- Liu G. and Lee S. Characterization of the complete chloroplast genome of ornamental plant, Bougainvillea peruviana (Nyctaginaceae). Mitochondrial DNA B, 2020. [DOI: 10.1080/23802359.2020.1768948](https://doi.org/10.1080/23802359.2020.1768948)
-- [Plant mitochondrial DNA replication components review, Plants 2019](https://doi.org/10.3390/plants8120533)
-- [Mitochondrial genome recombination in somatic hybrids of Solanum commersonii and S. tuberosum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127095/)
-- [The plant mitochondrial genome: Dynamics and maintenance (Biochimie)](https://www.sciencedirect.com/science/article/abs/pii/S0300908413003301)
-- [RECG maintains plastid and mitochondrial genome stability (PLoS Genetics)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358946/)
+
+Brieba, L. G. (2019). Structure–function analysis reveals the singularity of plant mitochondrial DNA replication components: A mosaic and redundant system. *Plants, 8*(12), 533. https://doi.org/10.3390/plants8120533
+
+Cho, K.-S., Lee, H.-O., Lee, S.-C., Park, H.-J., Seo, J.-H., Cho, J.-H., Park, Y.-E., Choi, J.-G., & Yang, T.-J. (2022). Mitochondrial genome recombination in somatic hybrids of *Solanum commersonii* and *S. tuberosum*. *Scientific Reports, 12*, 8659. https://doi.org/10.1038/s41598-022-12661-z
+
+Gualberto, J. M., Mileshina, D., Wallet, C., Niazi, A. K., Weber-Lotfi, F., & Dietrich, A. (2014). The plant mitochondrial genome: Dynamics and maintenance. *Biochimie, 100*, 107–120. https://doi.org/10.1016/j.biochi.2013.09.016
+
+Karp, G. (2013). *Cell and molecular biology: Concepts and experiments* (7th ed.). John Wiley & Sons.
+
+Liu, G., Lee, S. Y., Hu, X., Sun, M., Ni, J., Wang, W., Dai, S., & Ruan, L. (2020). Characterization of the complete chloroplast genome of ornamental plant, *Bougainvillea peruviana* (Nyctaginaceae). *Mitochondrial DNA Part B, 5*(3), 3267–3268. https://doi.org/10.1080/23802359.2020.1768948
+
+Odahara, M., Masuda, Y., Sato, M., Wakazaki, M., Harada, C., Toyooka, K., & Sekine, Y. (2015). RECG maintains plastid and mitochondrial genome stability by suppressing extensive recombination between short dispersed repeats. *PLoS Genetics, 11*(3), e1005080. https://doi.org/10.1371/journal.pgen.1005080
+
+### Database and Online Tools
+
+NCBI. (n.d.). *NCBI RefSeq record: NC_049005.1*. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/nuccore/NC_049005.1
+
+NCBI. (n.d.). *NCBI GenBank record: MT407463.1*. National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/nuccore/MT407463.1
+
+Galaxy Project. (n.d.). *FASTA statistics*. UseGalaxy.org. https://usegalaxy.org/
