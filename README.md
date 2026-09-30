@@ -64,6 +64,6 @@ The genome has the usual LSC-IRA-SSC-IRB layout. Genes in the inverted repeats, 
 5. Find the region coordinates in the GenBank FEATURES section.
 
 ## References
-- NCBI RefSeq NC_049005.1 and GenBank MT407463.1
-- Liu G. and Lee S. Direct submission, Sun Yat-sen University
-- Characterization of the complete chloroplast genome of ornamental plant, Bougainvillea peruviana (Nyctaginaceae). Mitochondrial DNA B, 2020. DOI: 10.1080/23802359.2020.1768948
+- NCBI RefSeq record: [NC_049005.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_049005.1)
+- NCBI GenBank record: [MT407463.1](https://www.ncbi.nlm.nih.gov/nuccore/MT407463.1)
+- Liu G. and Lee S. Characterization of the complete chloroplast genome of ornamental plant, Bougainvillea peruviana (Nyctaginaceae). Mitochondrial DNA B, 2020. [DOI: 10.1080/23802359.2020.1768948](https://doi.org/10.1080/23802359.2020.1768948)
