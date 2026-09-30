@@ -35,6 +35,8 @@ I searched NCBI Nucleotide for "Bougainvillea peruviana chloroplast complete gen
 
 The whole plastome is in one sequence record.
 
+I uploaded the FASTA file to my Galaxy history, set the type to fasta, and renamed the dataset with the species name and accession. Then I ran Fasta Statistics on it.
+
 ## Plastome summary
 | Feature | Result |
 |---|---|
