@@ -81,7 +81,7 @@ rps12 is trans-spliced, which means its exons are far apart in the genome and th
 - No pseudogenes are annotated in this record.
 - rps12 is trans-spliced.
 - clpP has two introns.
-- ycf1 sits across the junction between IRA and SSC.
+- ycf1 is found at both SSC-IR junctions. The long copy (124774..130410) crosses the SSC-IRB junction, and a shorter copy (109619..110992) sits at the IRA-SSC junction.
 - The record doesn't report any gene losses or rearrangements. I did not compare it with other species, so I can't say more than that.
 
 ## 8. GC content and other observations
