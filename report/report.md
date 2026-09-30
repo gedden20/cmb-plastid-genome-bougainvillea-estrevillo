@@ -95,28 +95,28 @@ The GC content is **36.49%** (from Galaxy).
 2. Both have their own DNA, separate from the nucleus.
 3. Both are in organelles with double membranes.
 4. Both code for rRNAs, tRNAs and some proteins, but most of their proteins come from nuclear genes.
-5. Both have many copies per cell and are mostly passed on by one parent, often the mother in flowering plants.
+5. Both have several copies of their DNA in each organelle, and the DNA is usually circular (Karp).
 
 **Five differences**
 1. The plastid genome is in the plastid (chloroplast) and the mitochondrial genome is in the mitochondrion.
 2. The plastid genome supports photosynthesis, and the mitochondrial genome supports respiration.
-3. Most plastid genomes are about 120 to 160 kb, but plant mitochondrial genomes vary a lot in size and are often much bigger.
-4. Plastid genomes keep a stable structure (LSC-IR-SSC-IR). Plant mitochondrial genomes rearrange often and can exist in several pieces.
-5. Plastid genomes carry more genes (131 here) than plant mitochondrial genomes, which often have around 50 to 60.
+3. Plastid genomes carry many more genes. Karp says chloroplast DNA has about 60 to 200 genes, and mine has 131. Human mtDNA has only 37 (13 proteins, 2 rRNAs and 22 tRNAs).
+4. They use different RNA polymerases. The plastid uses a bacterial-type polymerase, and my genome carries rpoB, rpoC1 and rpoC2. The mitochondrial polymerase is a single-subunit enzyme related to bacteriophage enzymes (Karp).
+5. Their mutation patterns differ. Human mtDNA mutates more than 10 times faster than nuclear DNA (Karp), but plant mitochondrial coding sequences change very slowly even though their structure rearranges a lot.  
 
 | Feature | Plastid genome | Mitochondrial genome |
 |---|---|---|
-| Cellular location | Plastid (chloroplast) | Mitochondrion |
-| Main biological functions | Photosynthesis and other plastid work | Respiration and ATP production |
-| Typical genome organization | Circular map with LSC, SSC and two IRs | Often many forms and sub-circles in plants |
-| Relative genome size | Small and fairly constant | Varies a lot, often larger in plants |
-| Gene content | Photosynthesis, ribosomal, RNA polymerase, tRNA and rRNA genes | Respiration, ribosomal, tRNA and rRNA genes |
-| Copy number | Many copies per plastid, many plastids per cell | Many copies per cell, varies by tissue |
-| Inheritance | Mostly maternal in flowering plants, but it varies | Mostly maternal in plants, but it varies |
-| Recombination / structural change | Low, structure is stable | High, rearranges often |
-| Mutation / substitution pattern | Generally slow and steady substitutions | In humans, mtDNA mutates more than 10 times faster than nuclear DNA (Karp), because it is exposed to oxidative damage and has fewer repair systems |
-| Common research applications | Phylogeny, barcoding, species ID | Used more in animals, less common in plants |
-| Transcription enzyme | Uses a bacterial-type RNA polymerase (plastid-encoded rpoB, rpoC1, rpoC2) | Single-subunit RNA polymerase related to bacteriophage enzymes |
+| Cellular location | Stroma of the chloroplast | Matrix of the mitochondrion |
+| Main biological functions | Photosynthesis (Karp) | Oxidative energy metabolism and ATP formation (Karp) |
+| Typical genome organization | Small, double-stranded, circular DNA (Karp). Mine has the LSC-IRA-SSC-IRB layout. | Circular in higher plants and animals (Karp). In plants it can also exist as a mix of linear, circular and branched forms (Biochimie review). |
+| Relative genome size | Highly conserved in size (Solanum paper). Mine is 154,465 bp. | Animals about 15-17 kb. Plants are much larger and vary a lot, up to 11.7 Mb in Larix. |
+| Gene content | About 60 to 200 genes (Karp). Mine has 131. | Human: 13 proteins, 2 rRNAs, 22 tRNAs (Karp) |
+| Copy number | Usually high copy number (Solanum paper) | Many copies per cell (Karp) |
+| Inheritance | Usually maternal in plants (Solanum paper) | Maternal in humans (Karp), usually maternal in plants (Solanum paper) |
+| Recombination / structural change | Conserved structure. Recombination between short repeats is kept in check by proteins such as RECG (moss study). | Frequent recombination between repeats, so plant mtDNA rearranges often |
+| Mutation / substitution pattern | Not covered in the sources I checked | Human mtDNA mutates more than 10 times faster than nuclear DNA (Karp). Plant mitochondrial coding regions change very slowly. |
+| Transcription enzyme | Bacterial-type polymerase. My genome carries rpoB, rpoC1 and rpoC2. | Single-subunit polymerase related to bacteriophage enzymes (Karp) |
+| Common research applications | Phylogeny and species identification (see Section 10) | Tracing human ancestry and ancient DNA (Karp) |
 
 ## 10. Why plastid genomes are useful
 **Advantages compared with the nuclear genome**
@@ -146,3 +146,7 @@ The GC content is **36.49%** (from Galaxy).
 - Galaxy: [usegalaxy.org](https://usegalaxy.org), Fasta Statistics tool.
 - Karp et al., Cell and Molecular Biology, 7th ed.
 - Liu G. and Lee S. Characterization of the complete chloroplast genome of ornamental plant, Bougainvillea peruviana (Nyctaginaceae). Mitochondrial DNA B, 2020. [DOI: 10.1080/23802359.2020.1768948](https://doi.org/10.1080/23802359.2020.1768948)
+- [Plant mitochondrial DNA replication components review, Plants 2019](https://doi.org/10.3390/plants8120533)
+- [Mitochondrial genome recombination in somatic hybrids of Solanum commersonii and S. tuberosum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9127095/)
+- [The plant mitochondrial genome: Dynamics and maintenance (Biochimie)](https://www.sciencedirect.com/science/article/abs/pii/S0300908413003301)
+- [RECG maintains plastid and mitochondrial genome stability (PLoS Genetics)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4358946/)
