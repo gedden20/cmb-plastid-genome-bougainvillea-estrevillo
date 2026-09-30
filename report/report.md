@@ -114,8 +114,9 @@ The GC content is **36.49%** (from Galaxy).
 | Copy number | Many copies per plastid, many plastids per cell | Many copies per cell, varies by tissue |
 | Inheritance | Mostly maternal in flowering plants, but it varies | Mostly maternal in plants, but it varies |
 | Recombination / structural change | Low, structure is stable | High, rearranges often |
-| Mutation / substitution pattern | Slow, steady substitutions | Slow substitutions but fast structural change in plants |
+| Mutation / substitution pattern | Generally slow and steady substitutions | In humans, mtDNA mutates more than 10 times faster than nuclear DNA (Karp), because it is exposed to oxidative damage and has fewer repair systems |
 | Common research applications | Phylogeny, barcoding, species ID | Used more in animals, less common in plants |
+| Transcription enzyme | Uses a bacterial-type RNA polymerase (plastid-encoded rpoB, rpoC1, rpoC2) | Single-subunit RNA polymerase related to bacteriophage enzymes |
 
 ## 10. Why plastid genomes are useful
 **Advantages compared with the nuclear genome**
@@ -142,6 +143,6 @@ The GC content is **36.49%** (from Galaxy).
 ## References
 - NCBI RefSeq record: [NC_049005.1](https://www.ncbi.nlm.nih.gov/nuccore/NC_049005.1)
 - NCBI GenBank record: [MT407463.1](https://www.ncbi.nlm.nih.gov/nuccore/MT407463.1)
-- Galaxy: [usegalaxy.org](https://usegalaxy.org), Fasta Statistics tool
-- Karp et al., Cell and Molecular Biology 
+- Galaxy: [usegalaxy.org](https://usegalaxy.org), Fasta Statistics tool.
+- Karp et al., Cell and Molecular Biology, 7th ed.
 - Liu G. and Lee S. Characterization of the complete chloroplast genome of ornamental plant, Bougainvillea peruviana (Nyctaginaceae). Mitochondrial DNA B, 2020. [DOI: 10.1080/23802359.2020.1768948](https://doi.org/10.1080/23802359.2020.1768948)
