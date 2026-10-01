@@ -1,6 +1,7 @@
 # Visualize Plastid Genome Structure
 
 **Name:** Gedden D. Estrevillo
+
 **Course / Section:** Cell and Molecular Biology, Section A
 
 | Item | Details |
