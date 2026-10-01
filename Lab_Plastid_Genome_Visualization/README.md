@@ -23,7 +23,7 @@ Standard map, circular, plastid, automatic inverted repeat detection. I turned o
 
 
 ## Main structural features
-The genome is circular and has the usual four parts: LSC (85,563 bp), IRA (25,426 bp), SSC (18,050 bp) and IRB (25,426 bp). Genes in the inverted repeats, like the rRNA genes, rpl2, rpl23 and ycf2, show up twice on the map. <Add one sentence about what you saw in the GC graph.>
+The genome is circular and has the usual four parts: LSC (85,563 bp), IRA (25,426 bp), SSC (18,050 bp) and IRB (25,426 bp). Genes in the inverted repeats, like the rRNA genes, rpl2, rpl23 and ycf2, show up twice on the map. The GC graph is not flat, and the inverted repeats look a bit higher in GC.
 
 ## Answers
 See [answers/Lab_plastid_genome_answers.md](answers/Lab_plastid_genome_answers.md).
